@@ -107,7 +107,8 @@ font-family: 'Oswald', sans-serif;
 
 /* navbar end */
 #banner {
-    background: url(Images/banner.jpg);
+    
+    background: url(/Images/banner.jpg);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
